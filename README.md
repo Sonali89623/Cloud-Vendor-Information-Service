@@ -1,5 +1,5 @@
 # Cloud-Vendor-Information-Service
-SpringBoot, Hibernate, Eclipse, Postman, MySQL Database
+SpringBoot, Hibernate, Eclipse, Postman, Rest API, MySQL Database
 
 **About the project** :- 
 Developed Spring Boot project with MVC architecture and implemented RESTful
